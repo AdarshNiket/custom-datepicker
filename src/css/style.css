@@ -1,5 +1,5 @@
 @charset "utf-8";
-.dateFormat{
+.dateFormat,.dateDropdown{
 	width:11%;
 	margin-top: 10px;
 	margin-left: 10px;
